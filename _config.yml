@@ -106,7 +106,7 @@ naver_site_verification  :
 
 # Site Author
 author:
-  name   : "About Me"
+  #name   : "About Me"
   avatar : "/assets/images/AK_DisplayPicture.jpg"
   bio    : "Geek, Tech-Evangelist, Foodie, Travel-Lover, Father & Husband"
   location: "Bothell, WA"
