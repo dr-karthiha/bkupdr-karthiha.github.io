@@ -3,13 +3,13 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Ak_HomePage_Feature.jpg
-  caption: "Photo Credit: [**Aswinkumar**](https://aswinkumar.in)"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Click Here For Resume"
-      url: "/docs/SRE_OnePager.pdf"
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
 excerpt: >
-  Geek, Tech Evangelist, Challenge Seeking, Take No For An Answer & Go Getter
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.0">Latest release v4.17.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
