@@ -23,7 +23,7 @@ toc: true
 	
 	<p>
 	
-		Right now, I am a Systems Reliability Engineer working for a leading <span style="color: #ea0a8e">Tel-Co</span> (yep,<span style="color: #ea0a8e"> T-Mobile</span>) here in the USA. I ensure that my customers are always able to self-serve without the need to speak with an agent. My goal is to be able to provide <span style="color: #ea0a8e">"The Rock-Star"</span> experience for every caller, every single time. 
+		Right now, I am a Systems Reliability Engineer working for a leading <span style="color: #ea0a8e">Tel-Co</span> (yep,<span style="color: #ea0a8e"> T-Mobile!</span>) here in the USA. I ensure that my customers are always able to self-serve without the need to speak with an agent. My goal is to be able to provide <span style="color: #ea0a8e">"The Rock-Star"</span> experience for every caller, every single time. 
 	</p>
 	
 	<p>
