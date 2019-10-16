@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Click Here For Resume"
       url: "/docs/SRE_OnePager.pdf"
 excerpt: >
-  <div style="text align:right"> Geek, Tech Evangelist, Challenge Seeking, Take No For An Answer & Go Getter </div>
+    Geek, Tech Evangelist, Challenge Seeking, Take No For An Answer & Go Getter
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
