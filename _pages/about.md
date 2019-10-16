@@ -27,7 +27,7 @@ toc: true
 	</p>
 	
 	<p>
-		Prior to this, I was a Guest Reliability Engineer for the "stocks-rally-like-its-2009" retailer, that is having a <span style="color: #ea0a8e">bull's eye</span> (yep, you guessed it right, it's <span style="color: #ea0a8e">Target!</span>) to become the guest's preferred shopping desitnation. I was holding a variety of positions responsible for different Infrastructure Platforms ranging from Virtualization to VoIP Telephony. 
+		Prior to this, I was a Guest Reliability Engineer for the "stocks-rally-like-its-2009" retailer, that is having a <span style="color: #e80018">bull's eye</span> (yep, you guessed it right, it's <span style="color: #e80018">Target!</span>) to become the guest's preferred shopping desitnation. I was holding a variety of positions responsible for different Infrastructure Platforms ranging from Virtualization to VoIP Telephony. 
 	</p>
 	
 </div>
