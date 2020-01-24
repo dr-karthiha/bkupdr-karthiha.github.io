@@ -15,19 +15,14 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-## Who am I ? 
-<div style="text-align: justify"> 
+## Who am I ?
+<div style="text-align: justify">
 	<p>
-		Hi, I am Aswinkumar (AK). My interests are cloud, system-reliability and user-experience.  I strongly believe that a day spent without learning is not a day that is well spent. I enjoy stepping out of the normal comfort zone, and I believe that's how one can improve. 
+    Well, if you are here, I presume that you know my name and the basic stuffs. Let me tell you what I do and what my interests are instead. I am an Associate - Systems Reliability Engineer at JP Morgan Chase, Seattle. I am responsible for some of the apps that run within their environment, responsible - meaning that I should ensure their apps are running fine and if they fail, should prevent them from failing again. Prior to this, I was with T-Mobile and Target as a Reliability Engineer, with a very similar JD.
 	</p>
-	
+
 	<p>
-	
-		Right now, I am a Systems Reliability Engineer working for a leading <span style="color: #ea0a8e">Tel-Co</span> (yep,<span style="color: #ea0a8e"> T-Mobile!</span>) here in the USA. I ensure that my customers are always able to self-serve without the need to speak with an agent. My goal is to be able to provide <span style="color: #ea0a8e">"The Rock-Star"</span> experience for every caller, every single time. 
+    Ever since I was a teenager, I've always wanted to be an educator
 	</p>
-	
-	<p>
-		Prior to this, I was a Guest Reliability Engineer for the "stocks-rally-like-its-2009" retailer, that is having a <span style="color: #e80018">bull's eye</span> (yep, you guessed it right, it's <span style="color: #e80018">Target!</span>) to become the guest's preferred shopping desitnation. I was holding a variety of positions responsible for different Infrastructure Platforms ranging from Virtualization to VoIP Telephony. 
-	</p>
-	
+
 </div>
