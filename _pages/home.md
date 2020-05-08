@@ -10,14 +10,14 @@ header:
   #    url: "/docs/SRE_OnePager.pdf"
 excerpt: >
     Dentist, Clinical Research Analyst, Loving Mother, Blogger & Foodie
-#feature_row:
-#  - image_path: /assets/images/mm-customizable-feature.png
-#    alt: "customizable"
-#    title: "Super customizable"
-#    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-#    url: "/docs/configuration/"
-#    btn_class: "btn--primary"
-#    btn_label: "Learn more"
+feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "First Blog"
+    title: "First Blog - Why I became a Dentist?"
+    excerpt: "Dream, and make sure to follow through it"
+    url: "/posts/why_i_became_a_dentist"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 #  - image_path: /assets/images/mm-responsive-feature.png
 #    alt: "fully responsive"
 #    title: "Responsive layouts"
