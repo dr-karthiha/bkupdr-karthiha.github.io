@@ -28,8 +28,8 @@ main:
     url: /year-archive/
   #- title: "Sample Collections"
   #  url: /collection-archive/
-  - title: "Terms, Disclaimers &amp; Privacy Policy"
-    url: /terms/
+  #- title: "Terms, Disclaimers &amp; Privacy Policy"
+  #  url: /terms/
 
 
 # documentation links

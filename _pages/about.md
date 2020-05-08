@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+#excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -18,11 +18,6 @@ toc: true
 ## Who am I ?
 <div style="text-align: justify">
 	<p>
-    Well, if you are here, I presume that you know my name and the basic stuffs. Let me tell you what I do and what my interests are instead. I am an Associate - Systems Reliability Engineer at JP Morgan Chase, Seattle. I am responsible for some of the apps that run within their environment, responsible - meaning that I should ensure their apps are running fine and if they fail, should prevent them from failing again. Prior to this, I was with T-Mobile and Target as a Reliability Engineer, with a very similar JD.
+  Folks, and for those that do not know me, my name is Karthiha. I am a dentist by profession, a passionate mom, an adventurist, and an avid foodie. I am trying to embrace the part in me that has fallen in love with writing, writing about stuffs that affect us in day to day life. I am a firm believer of the statement, “A pen is mightier than the sword"
 	</p>
-
-	<p>
-    Ever since I was a teenager, I've always wanted to be an educator
-	</p>
-
 </div>
