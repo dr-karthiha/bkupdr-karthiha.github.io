@@ -15,23 +15,9 @@ feature_row:
     alt: "First Blog"
     title: "First Blog - Why I became a Dentist?"
     excerpt: "Dream, and make sure to follow through it"
-    url: "/posts/2017-07-07-why-i-chose-to-become-a-dentist"
+    url: "/personal/why-i-chose-to-become-a-dentist/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "First Blog"
-    title: "First Blog - Why I became a Dentist?"
-    excerpt: "Dream, and make sure to follow through it"
-    url: "/posts/2017-07-07-why-i-chose-to-become-a-dentist/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "First Blog"
-    title: "First Blog - Why I became a Dentist?"
-    excerpt: "Dream, and make sure to follow through it"
-    url: "/posts/2017-07-07-why-i-chose-to-become-a-dentist"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
 ---
 
 {% include feature_row %}
