@@ -15,7 +15,7 @@ feature_row:
     alt: "First Blog"
     title: "First Blog - Why I became a Dentist?"
     excerpt: "Dream, and make sure to follow through it"
-    url: "/posts/why_i_became_a_dentist/"
+    url: "/jekyll/dentist/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 #  - image_path: /assets/images/mm-responsive-feature.png
